@@ -18,7 +18,7 @@ scanf ("%d", &a);
 printf ("Enter number B= ");
   
 scanf ("%d", &b);
-  
+printf("The Answer is= ");
 switch (op)
     
     {
